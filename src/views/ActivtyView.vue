@@ -1,9 +1,9 @@
 <script setup>
-import Home from '@/components/Home.vue'
+import Activity from '@/components/Activity.vue'
 </script>
 <template>
   <div>
-    <Home />
+    <Activity />
   </div>
 </template>
 <style scoped></style>

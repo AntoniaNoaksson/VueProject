@@ -1,9 +1,9 @@
 <script setup>
-import Home from '@/components/Home.vue'
+import School from '@/components/School.vue'
 </script>
 <template>
   <div>
-    <Home />
+    <School />
   </div>
 </template>
 <style scoped></style>
