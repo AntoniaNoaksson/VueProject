@@ -17,7 +17,7 @@ import img from '@/assets/img/NeuroVän.png'
         placeholder="Vänligen skriv ditt namn"
         required
       />
-      <button type="submit" @click="login">Logga in</button>
+      <button type="submit" >Logga in</button>
     </form>
   </div>
 </template>

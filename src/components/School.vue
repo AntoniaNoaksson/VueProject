@@ -21,11 +21,15 @@ onMounted(() => {
     <div v-if="store.error" class="error">{{ store.error }}</div>
 
     <div v-if="!store.loading && !store.error">
-      <li v-for="(task, index) in store.task" :key="index">
-        <strong>{{ task.task }}</strong>
+      <ul class="task-list">
+        <li v-for="(task, index) in store.task" :key="index">
+          <strong>{{ task.task }}</strong>
 
-        <p v-if="task.description">{{ task.description }}</p>
-      </li>
+          <p v-if="task.description">{{ task.description }}</p>
+
+          
+        </li>
+      </ul>
     </div>
   </div>
 </template>

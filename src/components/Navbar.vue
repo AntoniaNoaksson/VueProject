@@ -47,8 +47,9 @@ import { RouterLink, RouterView } from 'vue-router'
   align-items: center;
 }
 
+
 .b-nav-item a:hover {
-  color: #3498db;
+  color: black !important;
 }
 
 .b-navbar-nav .ml-auto {
