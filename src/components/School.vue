@@ -26,8 +26,6 @@ onMounted(() => {
           <strong>{{ task.task }}</strong>
 
           <p v-if="task.description">{{ task.description }}</p>
-
-          
         </li>
       </ul>
     </div>

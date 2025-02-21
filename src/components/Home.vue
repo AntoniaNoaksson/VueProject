@@ -1,6 +1,6 @@
 <script setup>
-import { useUserNameStore } from '@/stores/userNameStore'
 import img from '@/assets/img/NeuroVän.png'
+import { useUserNameStore } from '@/stores/userNameStore'
 
 const user = useUserNameStore()
 </script>

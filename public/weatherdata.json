@@ -1,0 +1,43 @@
+{
+  "weatherConditions": [
+    {
+      "condition": "Sun",
+      "activities": [
+        {
+          "activity": "Gå ut på en promenad",
+          "description": "Passa på att gå ut och njut av det fina vädret"
+        },
+        {
+          "activity": "Leka i lekparken",
+          "description": "Ta med en förälder och lek i lekparken"
+        }
+      ]
+    },
+    {
+      "condition": "Rain",
+      "activities": [
+        {
+          "activity": "Kolla på en film",
+          "description": "Ta en lugn stund i soffan och kolla på en bra film"
+        },
+        {
+          "activity": "Läs en bok",
+          "description": "Passa på att läsa en bra bok"
+        }
+      ]
+    },
+    {
+      "condition": "Snow",
+      "activities": [
+        {
+          "activity": "Ut och bygg en snögubbe",
+          "description": "Gå ut och bygg en snögubbe på tomten"
+        },
+        {
+          "activity": "Baka",
+          "description": "Baka goda kakor"
+        }
+      ]
+    }
+  ]
+}

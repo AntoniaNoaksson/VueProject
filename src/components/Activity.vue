@@ -7,6 +7,7 @@ import img from '@/assets/img/NeuroVän.png'
   </div>
   <div>
     <h2>Dagens väder blir såhär</h2>
+
     <h3>Då skulle denna aktivitet passa bra att uföra:</h3>
   </div>
 </template>
